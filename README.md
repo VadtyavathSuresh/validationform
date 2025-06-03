@@ -33,7 +33,7 @@ This project is ideal for beginners learning JavaScript or for developers who wa
 ## 🧪 How to Run
 
 1. Download or clone this repository.
-2. Open the `validation.html` file in any modern web browser.
+2. Open the https://validationform1.ccbp.tech/file in any modern web browser.
 3. Fill out the form fields and try submitting with both valid and invalid inputs to observe the validation behavior.
 
 ## 🔧 Customization Tips
